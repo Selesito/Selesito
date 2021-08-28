@@ -5,7 +5,8 @@
 
 Проекты::wink:
 
-15. [Микросервисы](https://github.com/Selesito/job4j_microservices https://github.com/Selesito/job4j_rest_template)
+15. [Микросервисы](https://github.com/Selesito/job4j_microservices)
+16. [Микросервисы](https://github.com/Selesito/job4j_rest_template)
 - REST-сервис, используется для управления докуиентами!
 - В проекте применены Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, JWT, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle
 
