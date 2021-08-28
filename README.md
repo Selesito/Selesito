@@ -6,7 +6,7 @@
 Проекты::wink:
 
 15. [Микросервисы](https://github.com/Selesito/job4j_microservices)
-- REST-сервис, используется для управления документами![Второй сервис](https://github.com/Selesito/job4j_rest_template)
+- REST-сервис, используется для управления документами! [Второй сервис](https://github.com/Selesito/job4j_rest_template)
 - В проекте применены Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, JWT, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle
 
 14. [url_shortcut](https://github.com/Selesito/job4j_url_shortcut)
@@ -16,7 +16,7 @@
 13. [Приложение температур](https://github.com/Selesito/weather_reactive)
 - Консольное приложение для определения температуры по разным городам.
 - В проекте применены Spring (boot / WebFlux), REST API, Gradle, Checkstyle
-- 
+
 12. [Чат с комнатами](https://github.com/Selesito/job4j_rest_chat)
 - Приложение REST Api через Spring Boot, приложение реализует чат с комнатами!
 - В проекте применены Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, JWT, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle
